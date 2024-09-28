@@ -8,7 +8,7 @@ class FullStackPage extends StatelessWidget {
      return Scaffold(
        appBar: AppBar(
         backgroundColor: Colors.blue,
-        title: Text("RouteAppOne" ,style: TextStyle(color: Colors.white),),
+        title: Text("RouteAppOne" ,style: TextStyle(color: Colors.black),),
       ),
       body: Container(
         padding: EdgeInsets.all(20.0),
